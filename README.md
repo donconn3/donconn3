@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello There 
+
+Digital Content Specialist is the game and Don is my name . . . wait, reverse that.
+
+My current role has given me incredible experience in retail marketing, content creation, and email campaign building. After going through Tech Elevator (bootcamp) and their Fullstck Java Program, I have developed internal tools for myself and my peers to help with analaytics, email campaigns, and contests. I am looking forward to roles where I can continue to grow my skills in marketing and web development.
 
 <!--
-**donconn3/donconn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
